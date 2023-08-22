@@ -1,6 +1,6 @@
-# p8
+# Flutter Firebase Project
 
-A new Flutter project.
+Authentication - Real-Time Database - Cloud Firestore - Storage - Messaging - local Notification - Image Picker 
 
 ## Getting Started
 
